@@ -11,6 +11,27 @@
     "fullNav": "/Matthew-9",
     "view": "article",
     "views": "article,presentation,video,youtube",
+    "viewSettings": [
+      {
+        "view": "article",
+        "text": "Scripture",
+        "title": "Article View - Optimized for Reading",
+        "hidePageNav": true,
+        "isEmpty": false
+      },
+      {
+        "view": "presentation",
+        "text": "",
+        "title": "Slides View - Optimized for Watching a controlled slide show",
+        "isEmpty": false
+      },
+      {
+        "view": "youtube",
+        "text": "",
+        "title": "YouTube View - Optimized for Watching",
+        "isEmpty": false
+      }
+    ],
     "hrefBase": "https://raw.githubusercontent.com",
     "hrefBaseOverride": "",
     "hrefOwner": "JohnBaluka",
@@ -24,7 +45,7 @@
     "youTubeId": "uGiGI-hQyJs",
     "videoFile": "",
     "createdDateTime": "2026-09-23T13:06:54.0721477Z",
-    "updatedDateTime": "2026-09-28T20:16:29Z",
+    "updatedDateTime": "2026-09-30T18:16:21Z",
     "siteLinks": []
   }
 ]
