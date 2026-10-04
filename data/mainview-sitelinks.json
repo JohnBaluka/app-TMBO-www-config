@@ -39,6 +39,43 @@
   {
     "href": "{HrefBase}/{HrefOwner}/{HrefRepo}/{HrefBranch}/data/mainview-slides.json",
     "icon": "fa-file-lines",
+    "text": "Intro to Matthew",
+    "description": "Berean Standard Bible (BSB)",
+    "title": "Who wrote it, how it is built, and what it keeps saying about Jesus",
+    "type": "slides",
+    "external": false,
+    "nav": "The-Gospel-According-to-Matthew",
+    "fullNav": "/The-Gospel-According-to-Matthew",
+    "view": "article",
+    "views": "article,presentation,video,youtube",
+    "viewSettings": [
+      {
+        "view": "article",
+        "text": "Intro",
+        "title": "",
+        "hidePageNav": true,
+        "isEmpty": false
+      }
+    ],
+    "hrefBase": "https://raw.githubusercontent.com",
+    "hrefBaseOverride": "",
+    "hrefOwner": "JohnBaluka",
+    "hrefRepo": "data-TMBO-EN-YV-BSB-40-Matthew",
+    "hrefBranch": "main",
+    "hrefOverride": "",
+    "useHrefOverride": false,
+    "hrefAuth": "",
+    "siteLinksURL": "",
+    "siteLinksURLOverride": "",
+    "youTubeId": "w2eAGyaaYgU",
+    "videoFile": "",
+    "createdDateTime": "2026-09-23T13:06:54.0721477Z",
+    "updatedDateTime": "2026-10-04T16:14:48Z",
+    "siteLinks": []
+  },
+  {
+    "href": "{HrefBase}/{HrefOwner}/{HrefRepo}/{HrefBranch}/data/mainview-slides.json",
+    "icon": "fa-file-lines",
     "text": "Matthew 9",
     "description": "Berean Standard Bible (BSB)",
     "title": "Authority to Forgive, Mercy for Sinners, a Harvest Berean Standard Bible (BSB)",
