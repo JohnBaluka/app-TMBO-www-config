@@ -9,14 +9,20 @@
     "external": false,
     "nav": "Our-Pitch-to-You",
     "fullNav": "/Our-Pitch-to-You",
-    "view": "article",
-    "views": "article,presentation,video,youtube",
+    "view": "articlePPTX",
+    "views": "video,youtube,articlePPTX,slidesPPTX",
     "viewSettings": [
       {
-        "view": "article",
-        "text": "",
-        "title": "",
+        "view": "articlePPTX",
+        "text": "Article",
+        "title": "Best for reading",
         "hidePageNav": true,
+        "isEmpty": false
+      },
+      {
+        "view": "slidesPPTX",
+        "text": "Slides",
+        "title": "Best for presenting",
         "isEmpty": false
       }
     ],
@@ -32,8 +38,9 @@
     "siteLinksURLOverride": "",
     "youTubeId": "zgUda8EQvd0",
     "videoFile": "",
+    "pptxSlides": true,
     "createdDateTime": "2026-09-23T13:06:54.0721477Z",
-    "updatedDateTime": "2026-10-15T11:13:08Z",
+    "updatedDateTime": "2026-10-18T12:44:31Z",
     "siteLinks": []
   },
   {
@@ -46,14 +53,26 @@
     "external": false,
     "nav": "The-Gospel-According-to-Matthew",
     "fullNav": "/The-Gospel-According-to-Matthew",
-    "view": "article",
-    "views": "article,presentation,video,youtube",
+    "view": "articlePPTX",
+    "views": "video,youtube,articlePPTX,slidesPPTX",
     "viewSettings": [
       {
-        "view": "article",
+        "view": "articleReveal",
         "text": "Intro",
         "title": "",
+        "isEmpty": false
+      },
+      {
+        "view": "articlePPTX",
+        "text": "Intro",
+        "title": "Best for reading",
         "hidePageNav": true,
+        "isEmpty": false
+      },
+      {
+        "view": "slidesPPTX",
+        "text": "Slides",
+        "title": "Best for presenting",
         "isEmpty": false
       }
     ],
@@ -69,8 +88,9 @@
     "siteLinksURLOverride": "",
     "youTubeId": "w2eAGyaaYgU",
     "videoFile": "",
+    "pptxSlides": true,
     "createdDateTime": "2026-09-23T13:06:54.0721477Z",
-    "updatedDateTime": "2026-10-15T11:13:08Z",
+    "updatedDateTime": "2026-10-18T12:44:31Z",
     "siteLinks": []
   },
   {
@@ -83,14 +103,26 @@
     "external": false,
     "nav": "Matthew-9",
     "fullNav": "/Matthew-9",
-    "view": "article",
-    "views": "article,presentation,video,youtube",
+    "view": "articlePPTX",
+    "views": "video,youtube,articlePPTX,slidesPPTX",
     "viewSettings": [
       {
-        "view": "article",
+        "view": "articleReveal",
         "text": "Scripture",
         "title": "",
+        "isEmpty": false
+      },
+      {
+        "view": "articlePPTX",
+        "text": "Scripture",
+        "title": "Best for reading",
         "hidePageNav": true,
+        "isEmpty": false
+      },
+      {
+        "view": "slidesPPTX",
+        "text": "Slides",
+        "title": "Best for presenting",
         "isEmpty": false
       }
     ],
@@ -106,8 +138,9 @@
     "siteLinksURLOverride": "",
     "youTubeId": "qrDvwYWh0mw",
     "videoFile": "",
+    "pptxSlides": true,
     "createdDateTime": "2026-09-23T13:06:54.0721477Z",
-    "updatedDateTime": "2026-10-15T11:13:08Z",
+    "updatedDateTime": "2026-10-18T12:44:31Z",
     "siteLinks": []
   }
 ]
